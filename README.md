@@ -1,3 +1,1 @@
 # BLOG
-
-Blogger
